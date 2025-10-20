@@ -5,13 +5,13 @@
 [![Python](https://img.shields.io/badge/Built_with-Python-yellow.svg)](#)  
 [![Telegram](https://img.shields.io/badge/Platform-Telegram-green.svg)](#)  
 [![Status](https://img.shields.io/badge/Stage-Prototype-orange.svg)](#)  
-
+![BotForges Preview](images/bot.png)
 ---
 
 ## 🧠 Overview  
 **BotForges** is a personal project exploring the fusion of **chat-based automation**, **data extraction**, and **intelligent web interaction** — all through a single conversational interface.  
 
-Built around the idea of “talking to your tools,” BotForges turns everyday tasks into simple chat commands. Whether you want to extract data from a website, recognize text from an image (OCR), or automate a workflow — just message your **BotForge Companion** and let it do the rest.  
+Built around the idea of “Automation/Tools hub,” BotForges turns everyday tasks into simple chat commands. Whether you want to extract data from a website, recognize text from an image (OCR), or automate a workflow — just message your **BotForge Companion** and let it do the rest.  
 
 > “Type less, think more — let your bot handle the rest.”
 
@@ -30,7 +30,7 @@ Built around the idea of “talking to your tools,” BotForges turns everyday t
 ---
 
 ## 🚀 Core Vision  
-BotForges aims to create a **personal AI automation layer** that anyone can access — especially via **Telegram**.  
+BotForges aims to create a **AI automations layer** that anyone can access — especially via **Telegram**.  
 
 It bridges technical power with conversational simplicity, allowing users to:  
 - 🧩 **Extract & Analyze Data** from websites or documents  
