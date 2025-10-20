@@ -1,10 +1,10 @@
 # 🤖 BotForges  
 *Conversational Automation for Everyone*  
 
-[![Version](https://img.shields.io/badge/version-0.6-blue.svg)](#)  
-[![Python](https://img.shields.io/badge/Built_with-Python-yellow.svg)](#)  
-[![Telegram](https://img.shields.io/badge/Platform-Telegram-green.svg)](#)  
-[![Status](https://img.shields.io/badge/Stage-Prototype-orange.svg)](#)  
+[![Version](https://img.shields.io/badge/version-0.6-blue.svg)](#) 
+[![Python](https://img.shields.io/badge/Built_with-Python-yellow.svg)](#) 
+[![Telegram](https://img.shields.io/badge/Platform-Telegram-green.svg)](#) 
+[![Prototype](https://img.shields.io/badge/Stage-Prototype-orange.svg)](#) 
 ![BotForges Preview](images/bot.png)
 ---
 
